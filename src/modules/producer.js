@@ -190,7 +190,4 @@ class Producer {
   }
 }
 
-/* eslint no-unused-expressions: "off" */
-/* eslint no-sequences: "off" */
-/* eslint arrow-body-style: "off" */
 module.exports = Producer;

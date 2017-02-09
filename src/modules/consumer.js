@@ -101,7 +101,4 @@ class Consumer {
   }
 }
 
-/* eslint no-unused-expressions: "off" */
-/* eslint no-sequences: "off" */
-/* eslint arrow-body-style: "off" */
 module.exports = Consumer;
